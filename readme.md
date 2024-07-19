@@ -80,7 +80,7 @@ http://localhost:3000
 ```
 
 #### API Documentation
-Sau khi dự án khởi động, bạn có thể truy cập tài liệu API tự động được tạo bởi springdoc-openapi tại:
+Sau khi dự án khởi động, bạn có thể truy cập tài liệu API tự động được tạo bởi openapi tại:
 ```
 http://localhost:1509/api/docs
 ```
